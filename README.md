@@ -1,5 +1,7 @@
 # Webpack Express Example App
 
+This repository is forked.
+
 The goal of this repo is be an example of a basic but functional app built on Express and Webpack.
 
 If you are just starting this process, start from branch 0-initial-setup. Otherwise, switch to the appropriate numbered branches of this repo as needed. The branches are:
