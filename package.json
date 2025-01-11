@@ -4,12 +4,16 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
     "start": "node src/server/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "webpack": "^4.35.3",
